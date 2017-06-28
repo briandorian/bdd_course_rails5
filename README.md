@@ -1,11 +1,7 @@
-Listing articles features test 
+Show article features test 
 
 - create branch
-- Create 2 articles to display
+- Create 1 articles to display
 
 
-- list the two articles
-
-
-- expect both articles and bodies to be present
-- 
+- show the article title and details
