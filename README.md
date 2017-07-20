@@ -1,7 +1,17 @@
-Show article features test 
+Articles will belong to users
 
-- create branch
-- Create 1 articles to display
+Users will own articles
 
+Users - 1 side of this
 
-- show the article title and details
+Articles - Many
+
+1 user can have many articles
+
+an article can only belong to 1 user
+
+foreign key of user_id in the articles table
+
+Steps:  
+
+- Create the spec
