@@ -1,17 +1,5 @@
-Articles will belong to users
+Comments feature 
 
-Users will own articles
-
-Users - 1 side of this
-
-Articles - Many
-
-1 user can have many articles
-
-an article can only belong to 1 user
-
-foreign key of user_id in the articles table
-
-Steps:  
-
-- Create the spec
+- create a branch
+- spec
+- builing the functionality
